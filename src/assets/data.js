@@ -5,7 +5,7 @@ export const data = [
     option2: "A Segunda Guerra Mundial",
     option3: "A Revolução Francesa",
     option4: "A Era Digital",
-    ans: 4
+    ans: 2 // Correta: A Revolução Industrial → está em option1 → aparece como 2ª no quiz
   },
   {
     question: "Qual era o foco principal da Administração Científica de Frederick Taylor?",
@@ -13,7 +13,7 @@ export const data = [
     option2: "Eficiência e padronização de processos",
     option3: "Hierarquia e regras formais",
     option4: "Adaptação ao ambiente externo",
-    ans: 3
+    ans: 3 // Correta: Eficiência e padronização → option2 → aparece como 3ª no quiz
   },
   {
     question: "Quais funções Henri Fayol considerava essenciais na administração?",
@@ -21,7 +21,7 @@ export const data = [
     option2: "Motivação, comunicação, liderança e avaliação",
     option3: "Produção, logística, marketing e finanças",
     option4: "Estratégia, inovação, qualidade e vendas",
-    ans: 2
+    ans: 2 // Correta: Planejamento... → option1 → aparece como 2ª no quiz
   },
   {
     question: "Qual teoria destacou a importância dos fatores humanos nas organizações?",
@@ -29,7 +29,7 @@ export const data = [
     option2: "Teoria Científica",
     option3: "Teoria das Relações Humanas",
     option4: "Teoria da Burocracia",
-    ans: 4
+    ans: 4 // Correta: Teoria das Relações Humanas → option3 → aparece como 4ª no quiz
   },
   {
     question: "O que a Teoria das Contingências defende sobre a administração?",
@@ -37,6 +37,6 @@ export const data = [
     option2: "Que a gestão deve variar conforme o contexto da organização",
     option3: "Que a hierarquia rígida é sempre necessária",
     option4: "Que apenas eficiência importa, sem considerar pessoas",
-    ans: 3
+    ans: 3 // Correta: gestão deve variar → option2 → aparece como 3ª no quiz
   }
 ];
